@@ -1,93 +1,74 @@
-# Privacy Policy
+**Privacy Policy**
 
-**Effective Date:** 6th May, 2025  
-**App Name:** Modern Trade Market  
-**Developer:** Brian Otieno  
-**Contact:** 0111524408
+This privacy policy applies to the modern trade market app (hereby referred to as "Application") for mobile devices that was created by modern trade market (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
----
+**Information Collection and Use**
 
-## 1. Introduction
+The Application collects information when you download and use it. This information may include information such as
 
-We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share data when you use our mobile application, **Modern Trade Market**, available on the Google Play Store.
+*   Your device's Internet Protocol address (e.g. IP address)
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   The operating system you use on your mobile device
 
-By using our app, you agree to the collection and use of information in accordance with this policy.
+The Application does not gather precise information about the location of your mobile device.
 
----
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
-## 2. Information We Collect
+*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-We may collect the following types of information:
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-- **Personal Information**  
-  Name, email address, or phone number (only if you choose to provide it via forms or account registration).
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to moderntrademarket@gmail.com . The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-- **Usage Data**  
-  App usage patterns, session duration, features accessed, and crash reports.
+**Third Party Access**
 
-- **Device Information**  
-  Device type, operating system, unique device identifiers, and other technical information.
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-- **Location Data** *(if applicable)*  
-  Location data if you grant permission for location access.
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
----
+*   [Google Play Services](https://www.google.com/policies/privacy/)
 
-## 3. How We Use Your Information
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-We use the collected information to:
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-- Provide and maintain the app  
-- Improve app performance and user experience  
-- Communicate with users if needed (e.g., support requests)  
-- Analyze usage and trends  
-- Comply with legal obligations
+**Opt-Out Rights**
 
----
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-## 4. Data Sharing and Disclosure
+**Data Retention Policy**
 
-We do **not** sell or share your personal data with third parties except:
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at moderntrademarket@gmail.com and they will respond in a reasonable time.
 
-- With your consent  
-- To comply with legal obligations  
-- With service providers who help us operate the app (under confidentiality agreements)
+**Children**
 
----
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-## 5. Data Retention
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (moderntrademarket@gmail.com) so that they will be able to take the necessary actions.
 
-We retain your information only for as long as necessary to fulfill the purposes outlined in this policy unless a longer retention period is required by law.
+**Security**
 
----
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-## 6. Security
+**Changes**
 
-We take reasonable measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the Internet is 100% secure.
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
----
+This privacy policy is effective as of 2025-05-06
 
-## 7. Children's Privacy
+**Your Consent**
 
-Our app is not intended for children under the age of 13. We do not knowingly collect personal data from children.
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
----
+**Contact Us**
 
-## 8. Your Rights
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at moderntrademarket@gmail.com.
 
-Depending on your jurisdiction, you may have rights to access, correct, or delete your personal information. Contact us at the number provided for any such requests.
+* * *
 
----
-
-## 9. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the effective date.
-
----
-
-## 10. Contact Us
-
-If you have any questions or concerns about this Privacy Policy, you can contact us at:
-
-**Modern Trade Market**  
-**Contact:** 0727980000
+This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
